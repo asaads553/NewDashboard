@@ -1,0 +1,10 @@
+[theme]
+base = "dark"
+primaryColor = "#3B82F6"        # Un bleu roi moderne (pour les boutons et curseurs)
+backgroundColor = "#0E1117"     # Fond très sombre (presque noir)
+secondaryBackgroundColor = "#1E252B" # Fond des cartes et sidebar (gris bleuté)
+textColor = "#FFFFFF"           # Texte blanc pur
+font = "sans serif"
+
+[server]
+runOnSave = true
